@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "mymod:block/firstblock"
+  }
+}
