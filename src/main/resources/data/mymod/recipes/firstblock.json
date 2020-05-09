@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X#X",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:cobblestone"
+    },
+    "#": {
+      "tag": "forge:dyes/magenta"
+    }
+  },
+  "result": {
+    "item": "mymod:firstblock"
+  }
+}
